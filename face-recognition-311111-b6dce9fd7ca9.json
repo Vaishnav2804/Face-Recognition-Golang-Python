@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "face-recognition-311111",
+  "private_key_id": "b6dce9fd7ca943c4a610a6192c057d5ef45a39ef",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCI+J00Bl4+epTK\n3WMsblUqDhvCE5pSUElI9ff7A7QVLAig8vpVwLKYV7sEDdi+Btce63IJlh+ymp/O\n02I1oIoMNT0l57kPEQvBHbXiNOktZrtEm+anURQ7uXkcUjC7klS6OY4GbV9WvygS\n9HKWF3Wh8e+OW1vjiuj4WVuZHUrmCW/f4O4UcyJIrpQmHTk8tTOv8LrMvk8c1XQs\nctsoLIZDmH0LXp8W7AdgGC7zEwq1/Hn5F5jcZVDwqKDAzzyCyw32D7A4IuqNQnB5\nur4s4TqR4fiGAsSYDjcmJpsNKFtZn3rt9sxt8i5gzU2l1XFp1VJOnvy0uABLiazD\n9nTiKL0ZAgMBAAECggEAC2eCf0sVxxH3GDpSque3g5GP0hrxEHAgNJ5LkBorgPpy\nRXm1n4o0fzwJauRUQDja6czPaT5B/rb3yLAPpJ4XSxOWYco8vaUSW3lDzu/Ph7je\nrW8QR1dtiIOAMqbNPpuHyRxIV6n89CtlBMmsThQ/S8U/HZU8aLevf24WkwBotLpu\nkf9RgwUDRIfIg0HIWsX/0m97DBHAIbOep9k0STx0p9q1P8hTUvvMiPsJQS4bplt6\ns1/hPM291Knq/ImeeVQLJkD/3fEGbOowH65Ii3X2hhoHhdEdubs5hbDBFEv1pL+0\nGj4nV+4Mo5orUXqqRu+Vc8x6WOAvqz4+zMzw54Yi4QKBgQC95MNO98Uz4xXi81z+\nAPqM4cOgdF7/Nmd0yuxdu2N27eELuF5xYekdOZD/wU/qN1Bg7cQAQlpi6IWj2b9u\n7VFxwprBv8hhDIRp6IhxLAYzOxS20ghEcR4UW9uTue2NP4Y1/2/2GJizwDFn4E2V\nvOK6IQOT8ez+eiZnGu820LXpDQKBgQC4p2ymSjGXwB/iQP/NzR41cCjnoq3+sz3I\ni+lxdOHuErhsTAPBNZGPIUMtfsugZRDyaKEKMrCSp0jRYBMCJZrtwbpEL8/2yV6N\nODnz+HMYydfIg1AwY1HxJHNu7UgJtqNY64scO6Mj6dI2m27ZIS2wclNHOzby5PiV\nzgJwjunJPQKBgDtd7rWcfrmnECug2/zJP4uV9XwPhbeSQavg2R7Au+rtmcL5RAV8\nj83ENpHO1PYrjuSO0Q0nsWxkt4svQ0shxKmlJo7WL4YvzKHzwdxn4BRaLzKs3UrQ\ndo/02+QGZ78WEhaFonI05GCmAIwyMu9SWyvHsH+rTeWNOL5ZTFo9y/FtAoGBAIDc\nXeciKb+z1MxI/fr55NX4AqO7lF8FaN1WPj/uCGji6Y6x8YDYyE6xMLdEIAg733q7\nZ369ZxnA4gEzYbCC276GDl3dW+zmFDTLAy5tuKyY1xxX/xL1jM6S2HeV4UreCNpZ\n7gdy2uOKHif7iny+OatD7Tfta+hPv+aTEILKSP4lAoGBAJYR6HpDwcScMcDN/2ZB\nLVt1RRrJjNpX7//jk/BHRBMFszJMV8AiOMlR3lZc2FWGq3YMBl4CPIcl5VczDaQO\nDlklIijj4rdcGdg1FpBd/H0GJgRxDNjRq06iPbfnHnSyj+WyaaOgnzL793ZhWY/F\n4TPmFg9gLf5+ykCNIN11QwET\n-----END PRIVATE KEY-----\n",
+  "client_email": "fr-vaishnav@face-recognition-311111.iam.gserviceaccount.com",
+  "client_id": "112003128045495672024",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/fr-vaishnav%40face-recognition-311111.iam.gserviceaccount.com"
+}

@@ -1,0 +1,8 @@
+flask
+cmake
+face_recognition
+matplotlib
+numpy
+scipy
+opencv-python
+google-cloud-storage
