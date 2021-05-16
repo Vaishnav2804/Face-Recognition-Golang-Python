@@ -22,8 +22,8 @@ func New() *handlehttp {
 }
 
 const (
-	projectID  = "face-recognition-311111" // Project ID
-	bucketName = "fr_vaishnav"             // Bucket_Name
+	projectID  = "<Enter your Project ID" // Project ID
+	bucketName = "<Enter the Bucket Name>"             // Bucket_Name
 )
 
 var uploader *ClientUploader
@@ -46,7 +46,7 @@ type ClientUploader struct {
 }
 
 func init() {
-	_ = os.Setenv("GOOGLE_APPLICATION_CREDENTIALS", "/Users/vaishnav/Downloads/face-recognition-311111-277732e769d4.json") // JSON PATH TO VALIDATE
+	_ = os.Setenv("GOOGLE_APPLICATION_CREDENTIALS", "<SetPath>") // JSON PATH TO VALIDATE
 	client, err := storage.NewClient(context.Background())
 	if err != nil {
 		log.Fatalf("Failed to create client: %v", err)
