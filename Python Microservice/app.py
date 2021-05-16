@@ -22,7 +22,7 @@ def download_blob(bucket_name, source_blob_name1, source_blob_name2):
     # destination_file_name = "local/path/to/file"
     
     storage_client = storage.Client.from_service_account_json(
-        'face-recognition-311111-b6dce9fd7ca9.json')
+        '<Json path>')
 
     bucket = storage_client.bucket(bucket_name)
 
