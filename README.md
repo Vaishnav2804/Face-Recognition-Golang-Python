@@ -1,4 +1,4 @@
-# Face-Recognition-GOPY
+# Face-Recognition-Golang and Python
 Face recognition using Go and Python
 
 The images are taken as input by the GO microservice, and is sent to the Python microservice. The Python microservice, then processes the distance between the two images using `face_recognition`
